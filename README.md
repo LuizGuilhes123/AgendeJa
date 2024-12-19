@@ -1,6 +1,6 @@
 # <img src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png" height="50"> Repositório de Códigos em Python
 
-Este repositório serve como um espaço para organizar e armazenar todos os meus projetos desenvolvidos em Python. \
+Este repositório serve como um espaço para organizar e armazenar todos os meus projetos academicosdesenvolvidos em Python. \
 Aqui, você encontrará uma variedade de códigos que abrangem diferentes conceitos e técnicas da linguagem coma ideia de motivar as pessoas a começarem a programar com códigos uteis e divertidos.
 
 Sinta-se à vontade para explorar, aprender e contribuir com os projetos!
